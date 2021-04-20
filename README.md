@@ -5,3 +5,9 @@ My first repository on GitHub
 
 This is for logging into glitch.
 これはglitchにログインするための物です。
+
+### 使用方法
+```bash
+
+
+```
