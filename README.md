@@ -1,4 +1,4 @@
-# discord-bot-login
+# Glitch-login
 
 My first repository on GitHub
 このレポジトリはGitHubの中で1番最初のレポジトリです。
