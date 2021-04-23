@@ -14,3 +14,4 @@ This is for logging into glitch.
 ```bash
 var GLITCH_URL = "https://[GlitchのURL].glitch.me";
 ```
+
