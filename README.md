@@ -1,10 +1,7 @@
 # Glitch-login
 
-My first repository on GitHub
-このレポジトリはGitHubの中で1番最初のレポジトリです。
-
-This is for logging into glitch.
 これはglitchにログインするための物です。
+This is for logging into glitch.
 
 ### 使用方法
 下記の[GlitchのURL]にこの写真のところにあるURLをペーストして下さい
