@@ -10,6 +10,7 @@ function sendGlitch(uri, json){
    'contentType' : 'application/json; charset=utf-8',
    'method' : 'post',
    'payload' : json,
+   'headers' : json,
    'muteHttpExceptions': true
  };
  response = UrlFetchApp.fetch(uri, params);
